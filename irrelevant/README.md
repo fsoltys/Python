@@ -1,0 +1,1 @@
+zadania z samego początku semestru, mające na celu naukę głównie składni języka i podstawowych operacji na liczbach i ciągach znaków
